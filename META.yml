@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Async-ORM
-version:            0.500
+version:            0.501
 abstract:           Asynchronous Object-relational mapping
 author:
     - Viacheslav Tikhanovskii <vti@cpan.org>
